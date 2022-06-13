@@ -1,4 +1,6 @@
 # Zusammenfassung und Ausblick des Forschungsprojekts
+Die folgenden Passagen beziehen sich auf die schriftliche Ausarbeitung des Masterprojekts "Machine Learning unterstützte Kanalschätzung für Mehrantennensysteme"
+
 Die gesteigerte Mobilität der Endgeräte sorgt für sich verändernde Kanäle. Eine leistungsfähige, zuverlässige und dennoch ressourcenschonende Kanalschätzung ist zur Realisierung konstant hoher Datenraten mit geringen Fehlerraten nötig.
 
 
@@ -39,7 +41,7 @@ Aufbauend auf dem DeEQ Algorithmus aus [MH] ist der Einbezug von Modellwissen in
 das neuronale Netzwerk denkbar. Hierbei könnten die Ansätze der klassischen Kanalschätzung um die Vorzüge des maschinellen Lernens erweitert werden. Die Anwendung
 der Erkenntnisse aus [MH] in der Kanalschätzung erscheint attraktiv.
 
-# Used Libraries (german)
+# Verwendete Bibliotheken
 Die Tabelle stellt eine Übersicht über alle verwendeten Bibliotheken
 dar. Um einen reibungslosen Ablauf zu gewährleisten, wird die Anwendung der genannten
 Bibliotheken empfohlen. Da die Bibliotheken aktualisiert werden, können bestimmte Funktionen in
