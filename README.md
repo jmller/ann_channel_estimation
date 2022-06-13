@@ -1,5 +1,5 @@
 # Zusammenfassung und Ausblick des Forschungsprojekts
-Die folgenden Passagen beziehen sich auf die schriftliche Ausarbeitung des Masterprojekts "Machine Learning unterstützte Kanalschätzung für Mehrantennensysteme"
+_Die folgenden Passagen beziehen sich auf die schriftliche Ausarbeitung des Masterprojekts *"Machine Learning unterstützte Kanalschätzung für Mehrantennensysteme"*_
 
 Die gesteigerte Mobilität der Endgeräte sorgt für sich verändernde Kanäle. Eine leistungsfähige, zuverlässige und dennoch ressourcenschonende Kanalschätzung ist zur Realisierung konstant hoher Datenraten mit geringen Fehlerraten nötig.
 
